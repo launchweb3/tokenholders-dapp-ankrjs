@@ -3,7 +3,7 @@
 ## 🟢 Live Demo
 [ERC20 - Token Holder dApp](https://tokenholders-dapp-ankrjs.vercel.app/)
 
-![screely-1675253578816](https://user-images.githubusercontent.com/44579545/216039488-309296d5-152b-40f1-8e13-fae347ce3dd0.png)
+![screely-1682340696244](https://user-images.githubusercontent.com/44579545/234018569-b6f69c71-f22d-4a51-99b8-327a5e12f5e0.png)
 
 ## Tech Stack 
 - Next.js as the React/frontend framework
