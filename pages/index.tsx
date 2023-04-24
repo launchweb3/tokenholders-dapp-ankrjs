@@ -16,7 +16,7 @@ const Home: NextPage = () => {
       <h1 className='text-5xl font-bold'>ERC20 Token Holders Viewer</h1>
       <br></br>
       <h1 className='text-zinc text-3xl font-bold'>
-        Powered by 💫 {' '}
+        Powered by 🌈 {' '}
         <a 
           href='https://www.ankr.com/advanced-api/'
           target='_blank'
