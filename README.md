@@ -1,14 +1,15 @@
-# 🤝 ERC20 Token Holders Viewer dApps
+# ERC20 Token Holders Viewer dApps 
 
-This is an demo [Next.js](https://nextjs.org/) project built using [Ankr.js](https://www.ankr.com/docs/advanced-api/javascript-sdk/) and [Ankr Advanced APIs](https://www.ankr.com/advanced-api/). 
-
-### Tech Stack 
-- Next.js as the React/frontend framework
-- TailwindCSS as the CSS framework
-- AnkrJS SDK to interact with Advanced APIs
-- Advanced APIs as the data source
+## 🟢 Live Demo
+[ERC20 - Token Holder dApp](https://tokenholders-dapp-ankrjs.vercel.app/)
 
 ![screely-1675253578816](https://user-images.githubusercontent.com/44579545/216039488-309296d5-152b-40f1-8e13-fae347ce3dd0.png)
+
+## Tech Stack 
+- Next.js as the React/frontend framework
+- TailwindCSS as the CSS framework
+- [AnkrJS SDK](https://www.npmjs.com/package/@ankr.com/ankr.js) to interact with Advanced APIs
+- [Advanced APIs](https://www.ankr.com/advanced-api/) as the data source
 
 ## Step 1: Setting Up Your Next.js Starter Project
 Navigate into a directory of your choice and run the following command in your terminal to set up a new Next.js project:
