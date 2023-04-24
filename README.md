@@ -51,7 +51,7 @@ You can utilize the `getTokenHolders` function provided by Ankr.js for this.
 
 **File:** `./utils.ts`
 ```javascript
-import AnkrscanProvider from '@ankr.com/ankr.js';
+import AnkrProvider from '@ankr.com/ankr.js';
 
 // Create an instance of the AnkrProvider 
 const provider = new AnkrProvider('');
